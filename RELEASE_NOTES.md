@@ -26,7 +26,7 @@
 -  Added new environment variable: ENV_VARIABLE_NAME with value.
 -  Updated existing environment variable: ENV_VARIABLE_NAME to new value.
 
-**Full list of the ENV variables**: [v1.2.3](https://github.com/blockscout/frontend/blob/v1.2.3/docs/ENVS.md)
+**Full list of the ENV variables**: [v1.2.3](https://github.com/StarTowerChain/StarTowerChain)
 
 ## 💑 Compatibility
 From this version onward, the app is compatible only with the following API versions:
@@ -38,9 +38,9 @@ From this version onward, the app is compatible only with the following API vers
 | ... | ... |
 
 ## 🦄 New Contributors
-- @contributor1 made their first contribution in https://github.com/blockscout/frontend/pull/1
-- @contributor2 made their first contribution in https://github.com/blockscout/frontend/pull/2
+- @contributor1 made their first contribution in https://github.com/StarTowerChain/StarTowerChain
+- @contributor2 made their first contribution in(https://github.com/StarTowerChain/StarTowerChain)
 
 ---
 
-**Full Changelog**: https://github.com/blockscout/frontend/compare/v1.2.2...v1.2.3
+**Full Changelog**: https://github.com/StarTowerChain
