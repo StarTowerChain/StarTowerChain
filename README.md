@@ -1,8 +1,8 @@
-<h1 align="center">Blockscout frontend</h1>
+<h1 align="center">StarTower-SAVWSCAN frontend</h1>
 
 <p align="center">
     <span>Frontend application for </span>
-    <a href="https://github.com/StarTowerChain/StarTowerChain/)">StarTower</a>
+    <a href="https://github.com/StarTowerChain)">StarTower</a>
     <span> blockchain explorer</span>
 </p>
 
@@ -29,7 +29,7 @@ See our [Contribution guide](./docs/CONTRIBUTING.md) for pull request protocol. 
 - [Contribution guide](./docs/CONTRIBUTING.md)
 - [Making a custom build](./docs/CUSTOM_BUILD.md)
 - [Frontend migration guide](https://docs.blockscout.com/for-developers/frontend-migration)
-- [Manual deployment guide with backend and microservices](https://docs.blockscout.com/for-developers/deployment/manual-deployment-guide)
+- [Manual deployment guide with backend and microservices](https://startower.gitbook.io/star-tower-chain/untitled)
 
 ## License
 
