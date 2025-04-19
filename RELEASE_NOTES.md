@@ -33,7 +33,7 @@ From this version onward, the app is compatible only with the following API vers
 
 | Service | Version |
 | --- | --- |
-| Blockscout API | ... |
+| SAVWSCAN API | ... |
 | Stats microservice API | ... |
 | ... | ... |
 
